@@ -8,9 +8,7 @@ vignesh
 bals
 bell
 conda
-python
-
-
+py
 
 
 
