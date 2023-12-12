@@ -3,13 +3,9 @@ vicky
 abi
 vish
 kirubs
-srini
-sund
-sanjay
 dharshsun
 vignesh
 bals
-
 bell
 conda
 python
