@@ -5,10 +5,7 @@ vish
 kirubs
 dharshsun
 vignesh
-bals
-bell
-conda
-py
+
 
 
 
